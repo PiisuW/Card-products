@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0;
+}
+
+main {
+    background-color: #ffffff;
+    width: 20rem;
+    border-radius: 1rem;
+}
+
+button {
+    background-color: green;
+    color: white;
+}
+
